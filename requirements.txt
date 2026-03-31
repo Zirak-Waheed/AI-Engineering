@@ -12,3 +12,4 @@ python-multipart
 uvicorn
 faiss-cpu
 pypdf
+openai
