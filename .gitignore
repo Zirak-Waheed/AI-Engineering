@@ -207,3 +207,7 @@ marimo/_lsp/
 __marimo__/
 pyrightconfig.json
 .vscode/settings.json
+
+# Local FAISS index (RAG practice)
+RAG/practice/faiss_index/
+RAG/practice/uploads/

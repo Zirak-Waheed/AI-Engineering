@@ -7,3 +7,8 @@ langchain-anthropic
 langchain-openai
 langchain-core
 neo4j
+fastapi
+python-multipart
+uvicorn
+faiss-cpu
+pypdf
