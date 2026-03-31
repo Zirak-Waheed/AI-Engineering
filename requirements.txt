@@ -13,3 +13,4 @@ uvicorn
 faiss-cpu
 pypdf
 openai
+pandas
