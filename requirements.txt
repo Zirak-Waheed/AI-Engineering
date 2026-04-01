@@ -17,3 +17,7 @@ pandas
 smolagents[litellm]
 langgraph
 langchain_openai
+langchain-tavily
+langchain-experimental
+markdownify
+openpyxl

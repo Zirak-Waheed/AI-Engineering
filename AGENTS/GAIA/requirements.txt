@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-openai
+langchain-tavily
+langchain-experimental
+langgraph
+openai
+gradio
+requests
+pandas
+pypdf
+openpyxl
+markdownify
+youtube-transcript-api
+python-dotenv
