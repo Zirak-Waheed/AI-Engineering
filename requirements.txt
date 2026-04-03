@@ -21,3 +21,5 @@ langchain-tavily
 langchain-experimental
 markdownify
 openpyxl
+crewai
+crewai_tools
